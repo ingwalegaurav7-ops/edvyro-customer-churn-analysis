@@ -170,7 +170,7 @@ Contains:
 
 Cleaned dataset with standardized column names.
 
-### `EdVyro_Task1_Data_Quality_Summary.md`
+### `EdVyro_Task01_Customer_Churn_Analysis`
 
 Short written summary of the data-quality checks, cleaning decisions, findings, and recommendation.
 
